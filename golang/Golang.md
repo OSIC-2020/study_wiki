@@ -10,3 +10,7 @@
 + 优秀开源项目
 
     [GIN-VUE-ADMIN](https://github.com/flipped-aurora/gin-vue-admin)
+    
++ 手册
+
+    [gin中文文档手册](https://gin-gonic.com/zh-cn/docs/)
