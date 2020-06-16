@@ -27,6 +27,8 @@
 
 + 优秀开源项目
 
+    [Apache Dubbo-go](https://github.com/apache/dubbo-go):一款兼容 Apache Dubbo™ 的高性能 Go RPC 框架.
+    
     [GIN-VUE-ADMIN](https://github.com/flipped-aurora/gin-vue-admin)
     
     [OpenYurt](https://github.com/alibaba/openyurt):阿里巴巴首个边缘计算云原生开源项目。
