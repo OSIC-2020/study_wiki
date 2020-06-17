@@ -8,3 +8,5 @@
 [使用vue+node搭建前端异常监控系统](https://juejin.im/post/5e5e423ae51d4527041172b6)
 
 [前端除了localStorage 其他的几种存储方式](https://segmentfault.com/a/1190000022944268)
+
+[初识Vue_ssr](https://ssr.vuejs.org)
