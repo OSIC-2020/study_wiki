@@ -3,6 +3,8 @@
 ### 优秀文章
 [前端性能优化总结](https://juejin.im/post/5ee6d90d518825434566d458)
 
+[前端常用插件、工具类库汇总](https://segmentfault.com/a/1190000023055412)
+
 ### 工具收集
 [聊聊前端开发日常的协作工具](https://juejin.im/post/5ed37b57518825434c3d9677)
 
