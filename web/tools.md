@@ -5,6 +5,9 @@
 
 [前端常用插件、工具类库汇总](https://segmentfault.com/a/1190000023055412)
 
+### 前端组织
+[IMWeb](https://imweb.io/)：IMWeb 团队隶属腾讯公司，是国内最专业的前端团队之一。
+
 ### 工具收集
 [聊聊前端开发日常的协作工具](https://juejin.im/post/5ed37b57518825434c3d9677)
 
@@ -17,6 +20,8 @@
 [初识Vue_ssr](https://ssr.vuejs.org)
 
 [pdf.js](http://mozilla.github.io/pdf.js)
+
+[醉钮前端](http://f2er.club/)：优秀攻城狮的优秀博客、社区，实用的手册、工具、框架/库，以及在线教程和书籍推荐。
 
 [gulp](https://www.gulpjs.com.cn/):将开发流程中让人痛苦或耗时的任务自动化，从而减少你所浪费的时间、创造更大价值。
 
