@@ -21,6 +21,8 @@
 
 [pdf.js](http://mozilla.github.io/pdf.js)
 
+[前端算法体系](https://github.com/sisterAn/JavaScript-Algorithms)
+
 [醉钮前端](http://f2er.club/)：优秀攻城狮的优秀博客、社区，实用的手册、工具、框架/库，以及在线教程和书籍推荐。
 
 [gulp](https://www.gulpjs.com.cn/):将开发流程中让人痛苦或耗时的任务自动化，从而减少你所浪费的时间、创造更大价值。
