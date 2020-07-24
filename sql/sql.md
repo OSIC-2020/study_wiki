@@ -9,5 +9,6 @@
  
  [pt-qurey-digest](https://www.percona.com/downloads/percona-toolkit/LATEST/)：从日志、进程列表和tcpdump分析MySQL查询。
  
-
+## mysql资料
+ [47 张图带你 MySQL 进阶](https://juejin.im/post/5f163718f265da22f84d721c)
 
