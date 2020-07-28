@@ -11,4 +11,8 @@
  
 ## mysql资料
  [47 张图带你 MySQL 进阶](https://juejin.im/post/5f163718f265da22f84d721c)
+ 
+ [mysql 5.7 线程阻塞处理](https://www.cnblogs.com/klvchen/p/9137965.html)
+ 
+ [一张图彻底搞懂 MySQL 的锁机制](https://learnku.com/articles/39212)
 
